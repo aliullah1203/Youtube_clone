@@ -1,0 +1,7 @@
+.videolist{
+    display: flex;
+    cursor: pointer;
+}
+.videolist:hover{
+    background-color: #EEE;
+}
